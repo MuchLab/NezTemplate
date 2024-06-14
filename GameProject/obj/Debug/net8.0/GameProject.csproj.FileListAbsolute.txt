@@ -1,0 +1,5 @@
+C:\Dev\NezTemplate\GameProject\obj\Debug\net8.0\GameProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\NezTemplate\GameProject\obj\Debug\net8.0\GameProject.AssemblyInfoInputs.cache
+C:\Dev\NezTemplate\GameProject\obj\Debug\net8.0\GameProject.AssemblyInfo.cs
+C:\Dev\NezTemplate\GameProject\obj\Debug\net8.0\GameProject.csproj.CoreCompileInputs.cache
+C:\Dev\NezTemplate\GameProject\obj\Debug\net8.0\GameProject.sourcelink.json
